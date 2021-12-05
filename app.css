@@ -1,0 +1,43 @@
+.container {
+    background-color: lightblue;
+    display: inline-block;
+}
+
+.header{
+    width: 100%;
+}
+.name h1 {
+    margin: auto;
+    
+    font-size: 8rem;
+    padding: 10px;
+    text-align: center;
+}
+
+.name h2 {
+    margin: auto;
+    
+    font-size: 6rem;
+    padding: 10px;
+    text-align: center;
+}
+
+.accordion-item{
+    width: 50%;
+    display: inline;
+}
+
+.playlist{
+    text-align: center;
+}
+
+footer{
+    background-color: grey;
+    margin-top: 10rem;
+    font-size: 4rem;
+}
+
+a{
+    text-decoration: none;
+    color: green;
+}
